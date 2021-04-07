@@ -1,7 +1,7 @@
 {
   "name": "frases-celebres-imperio-romano",
   "version": "1.0.0",
-  "description": "Random de mensajes",
+  "description": "I don't know what to write for the first commit.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,15 @@
   "author": "Yiomar <yiomar.rc@gmail.com>",
   "license": "MIT",
   "bin": {
-    "frases-imperio-romano": "./bin/global.js"
+    "frases-imperio-romano": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pretorium/npm-package-frases-celebres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pretorium/npm-package-frases-celebres/issues"
+  },
+  "homepage": "https://github.com/pretorium/npm-package-frases-celebres#readme"
 }
