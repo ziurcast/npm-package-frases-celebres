@@ -1,0 +1,20 @@
+{
+  "name": "frases-celebres-imperio-romano",
+  "version": "1.0.0",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Js",
+    "Node",
+    "Npm"
+  ],
+  "author": "Yiomar <yiomar.rc@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "frases-imperio-romano": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
